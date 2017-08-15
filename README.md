@@ -1,13 +1,16 @@
 # TouristApp1
 
+<img src="https://user-images.githubusercontent.com/23560077/29328984-03fb60d2-8212-11e7-9d22-ad7b96f0e1b5.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328987-04021c6a-8212-11e7-9a3a-a6dab0fcb0de.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328983-03fafe76-8212-11e7-97cd-918fbcf691ea.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328986-03fef012-8212-11e7-9556-cc766bb9a971.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328988-0402a694-8212-11e7-9547-a61adbe04efc.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328985-03fbcc34-8212-11e7-856a-ef266174dbb8.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328990-042a7c8c-8212-11e7-9810-d94b0d3fe8f9.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328991-042bc57e-8212-11e7-9c08-3ca34566e0c5.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328992-04303c08-8212-11e7-86b7-41acc4eeba1c.png" width="1100" height="400" />
+<img src="https://user-images.githubusercontent.com/23560077/29328993-04351c0a-8212-11e7-9190-97154257ab60.png" width="1100" height="400" />
 
-![screenshot_2017-08-14-20-02-53](https://user-images.githubusercontent.com/23560077/29328984-03fb60d2-8212-11e7-9d22-ad7b96f0e1b5.png)
-![screenshot_2017-08-14-20-02-58](https://user-images.githubusercontent.com/23560077/29328987-04021c6a-8212-11e7-9a3a-a6dab0fcb0de.png)
-![screenshot_2017-08-14-20-03-04](https://user-images.githubusercontent.com/23560077/29328983-03fafe76-8212-11e7-97cd-918fbcf691ea.png)
-![screenshot_2017-08-14-20-03-14](https://user-images.githubusercontent.com/23560077/29328986-03fef012-8212-11e7-9556-cc766bb9a971.png)
-![screenshot_2017-08-14-20-03-21](https://user-images.githubusercontent.com/23560077/29328988-0402a694-8212-11e7-9547-a61adbe04efc.png)
-![screenshot_2017-08-14-20-03-36](https://user-images.githubusercontent.com/23560077/29328985-03fbcc34-8212-11e7-856a-ef266174dbb8.png)
-![screenshot_2017-08-14-20-04-02](https://user-images.githubusercontent.com/23560077/29328990-042a7c8c-8212-11e7-9810-d94b0d3fe8f9.png)
-![screenshot_2017-08-15-23-22-22](https://user-images.githubusercontent.com/23560077/29328991-042bc57e-8212-11e7-9c08-3ca34566e0c5.png)
-![screenshot_2017-08-15-23-22-35](https://user-images.githubusercontent.com/23560077/29328992-04303c08-8212-11e7-86b7-41acc4eeba1c.png)
-![screenshot_2017-08-15-23-22-51](https://user-images.githubusercontent.com/23560077/29328993-04351c0a-8212-11e7-9190-97154257ab60.png)
+
+
+
