@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firstapp.touristapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Atulya Bharat"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Front">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Choose" />
+        <activity android:name=".RedFort" />
+        <activity android:name=".RajGhat" />
+        <activity android:name=".QutubMinar" />
+        <activity android:name=".IndiaGate" />
+        <activity android:name=".RashtrapatiBhawan" />
+        <activity android:name=".Akshardham" />
+        <activity android:name=".TajMahal" />
+        <activity android:name=".HawaMahal" />
+        <activity android:name=".DalLake" />
+        <activity android:name=".GoldenTemple" />
+        <activity android:name=".GatewayOfIndia"/>
+    </application>
+
+</manifest>
