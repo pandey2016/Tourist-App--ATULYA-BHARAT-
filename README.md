@@ -1,8 +1,6 @@
 # TouristApp1
 
-<img src="https://user-images.githubusercontent.com/23560077/29328984-03fb60d2-8212-11e7-9d22-ad7b96f0e1b5.png" width="300" height="500" />
-<img src="https://user-images.githubusercontent.com/23560077/29328987-04021c6a-8212-11e7-9a3a-a6dab0fcb0de.png" width="300" height="500" />
-<img src="https://user-images.githubusercontent.com/23560077/29328983-03fafe76-8212-11e7-97cd-918fbcf691ea.png" width="300" height="500" />
+<img src="https://user-images.githubusercontent.com/23560077/29328984-03fb60d2-8212-11e7-9d22-ad7b96f0e1b5.png" width="300" height="500" /><img src="https://user-images.githubusercontent.com/23560077/29328987-04021c6a-8212-11e7-9a3a-a6dab0fcb0de.png" width="300" height="500" /><img src="https://user-images.githubusercontent.com/23560077/29328983-03fafe76-8212-11e7-97cd-918fbcf691ea.png" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/23560077/29328986-03fef012-8212-11e7-9556-cc766bb9a971.png" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/23560077/29328988-0402a694-8212-11e7-9547-a61adbe04efc.png" width="300" height="500" />
 <img src="https://user-images.githubusercontent.com/23560077/29328985-03fbcc34-8212-11e7-856a-ef266174dbb8.png" width="300" height="500" />
